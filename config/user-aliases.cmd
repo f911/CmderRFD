@@ -14,8 +14,12 @@ unalias=alias /d $1
 vi=vim $*
 cmderr=cd /d "%CMDER_ROOT%"
 
+
+~=cd /d %HOME%
 ll=ls -l --show-control-chars -F --color $*
 la=ls -alhF --show-control-chars -F --color $*
+
+;= git command alias
 gs=git status -s 
 gsh=git push
 gll=git pull

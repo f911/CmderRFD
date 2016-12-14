@@ -4,3 +4,5 @@
 :: call "%GIT_INSTALL_ROOT%/cmd/start-ssh-agent.cmd"
 :: set "PATH=%CMDER_ROOT%\vendor\whatever;%PATH%"
 
+cd /d %HOME%
+
