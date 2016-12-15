@@ -16,4 +16,4 @@ cmderr=cd /d "%CMDER_ROOT%"
 
 ll=ls -l --show-control-chars -F --color $*
 la=ls -alhF --show-control-chars -F --color $*
-gs=git status -s $*
+gs=git status -s 
