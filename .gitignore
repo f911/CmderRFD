@@ -1,0 +1,8 @@
+# ignore file for cmderrc
+
+/*
+!.gitignore
+!config\user-aliases.cmd
+!config\user-profile.cmd
+!vendor\conemu-maximus5\ConEmu.xml
+
